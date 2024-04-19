@@ -1,0 +1,9 @@
+user@example.com
+john.doe123@example.co.uk
+user@example
+john.doe123@example
+@example.com
+user@.example.com
+alice+smith@email-domain.com
+bob_123@sub.domain.com
+test@example-domain.co
